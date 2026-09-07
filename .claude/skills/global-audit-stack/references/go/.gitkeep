@@ -1,0 +1,4 @@
+# Placeholder for Go framework references (gin, echo, chi, fiber, ...)
+# First version: Go projects only run the 4 foundation workers
+# (global-audit-crypto / -auth / -config / -security-components);
+# framework references will be added in a future pass.
